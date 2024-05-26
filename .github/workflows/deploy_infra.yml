@@ -9,7 +9,7 @@ on:
       - '.github/workflows/deploy_infra.yml'
   pull_request:
     branches:
-      - 'main''
+      - 'main'
 
 permissions:
   contents: read
